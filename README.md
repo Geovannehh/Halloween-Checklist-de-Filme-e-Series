@@ -1,12 +1,8 @@
 <!-- HALLOWEEN-SCREENSHOTS-START -->
-# EquaGuard — Halloween e checklist de outubro
+# EquaGuard - Halloween e checklist de outubro
 
 Edição com calendário de 31 filmes, sugestões de Fanta e checklist dos dez filmes. As marcações de assistidos ficam salvas no navegador, separadamente em cada lista.
 
-
-## Telas do site
-
-Capturas reais da versão local, realizadas em 5 de novembro de 2026. As imagens estão na pasta `docs/telas/` e podem ser abertas diretamente após extrair o ZIP.
 
 ### Página inicial de Halloween
 
@@ -14,7 +10,7 @@ Capturas reais da versão local, realizadas em 5 de novembro de 2026. As imagens
 
 ### Checklist de outubro
 
-Dez títulos das fotos enviadas, com contador e opção “Já assisti”. Datas e plataformas foram transcritas das imagens e podem mudar.
+Dez títulos, com contador e opção “Já assisti”. Datas e plataformas foram transcritas das imagens e podem mudar.
 
 ![Checklist de filmes e séries de outubro](docs/telas/02-checklist-outubro.jpg)
 
