@@ -1,14 +1,8 @@
 <!-- HALLOWEEN-SCREENSHOTS-START -->
 # EquaGuard — Halloween e checklist de outubro
 
-Edição com calendário de 31 filmes, sugestões de Fanta e checklist dos dez filmes e séries das imagens enviadas. As marcações de assistidos ficam salvas no navegador, separadamente em cada lista.
+Edição com calendário de 31 filmes, sugestões de Fanta e checklist dos dez filmes. As marcações de assistidos ficam salvas no navegador, separadamente em cada lista.
 
-## Como abrir
-
-1. Extraia o ZIP inteiro, mantendo a estrutura de pastas.
-2. No Windows, execute `INICIAR_EQUAGUARD.cmd`. É necessário ter Python instalado; o inicializador prepara o ambiente e instala o Flask, com acesso à internet na primeira execução.
-3. Aguarde a abertura automática do navegador. O endereço padrão é `http://127.0.0.1:3000/#inicio`; se a porta estiver ocupada, o inicializador informa outra porta.
-4. Caso seja solicitado, escolha um perfil fictício de demonstração. Mantenha o servidor aberto enquanto usa o site.
 
 ## Telas do site
 
